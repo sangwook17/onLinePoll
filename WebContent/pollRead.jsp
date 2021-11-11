@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>투표하기(Vote)</title>
+<title>(Vote)</title>
 <!-- favicon: 인터넷 웹 브라우저의 주소창에 표시되는 웹사이트나 웹페이지를 대표하는 아이콘이다.-->
 <link rel="icon" href="./favicon.ico">
 </head>
